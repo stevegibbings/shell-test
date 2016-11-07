@@ -1,0 +1,12 @@
+{
+  "name": "shell-test",
+  "version": "0.0.1",
+  "scripts": {
+    "prebuild": "npm i",
+    "build": "gulp compress"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "0.0.14"
+  }
+}
