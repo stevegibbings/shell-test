@@ -4,5 +4,5 @@
 var test = 'testing';
 
 (function test(w){
-  test = "in test";
+  test = "in test 2";
 })(window);
