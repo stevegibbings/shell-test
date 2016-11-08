@@ -2,7 +2,7 @@
   "name": "shell-test",
   "version": "0.0.1",
   "scripts": {
-    "prebuild": "npm install --silent || true",
+    "prebuild": "npm install || true",
     "build": "gulp compress"
   },
   "devDependencies": {
